@@ -1,0 +1,35 @@
+div{
+    border-color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+}
+a{
+    margin: 3%;
+
+}
+.buttom1{
+    margin: 3%;
+    border-color: aliceblue;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-size: larger;
+}
+
+.buttom2{
+    margin: 3%;
+    border-color: aliceblue;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-size: larger;
+   
+}
+
+button{
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}

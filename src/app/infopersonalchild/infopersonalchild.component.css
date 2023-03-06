@@ -1,0 +1,20 @@
+body{
+
+
+    background-color: bisque;
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.card-body{
+    background-color: azure;
+}
+
+button{
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:bisque;
+}

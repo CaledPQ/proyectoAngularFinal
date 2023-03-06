@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+    padding: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.phrase{
+    display:flex;
+    justify-content: flex-start;
+    margin-right: 2rem;
+    
+}
+
+.author{
+    margin: auto;
+}
+
+.buttom{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.words{
+    font-size: larger;
+}
+
+button{
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
